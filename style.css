@@ -138,5 +138,5 @@ input[type="text"] {
 }
 
 .todo-list:empty + .empty-state {
-  display: flex;
+  display: flex 1;
 }
